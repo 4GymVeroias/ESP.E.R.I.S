@@ -1,5 +1,4 @@
-# ESP.E.R.I.S  
-# (ESP Electronic Recycle Internet System)  
+# ESP.E.R.I.S  (ESP Electronic Recycle Internet System)  
 ## Smart.Simple.Recycle.  
 ### Έργο για τον 4ο Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών στην Εκπαίδευση 2021-2022
 
